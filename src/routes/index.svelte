@@ -84,7 +84,7 @@
 
 <div class="container">
   <Bio />
-  <h1>Writing</h1>
+  <h1>Blog</h1>
   <p id="intro">A collection of my thoughts on software development, travel, music and all things in between.</p>
   <hr />
   {#each posts as post, index}
