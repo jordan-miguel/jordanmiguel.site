@@ -1,5 +1,5 @@
 ---
-title: What do I call this
+title: What do I call this blog
 date: "2019-06-11T08:38:00.000Z"
 ---
 
