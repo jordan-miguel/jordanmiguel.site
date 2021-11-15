@@ -1,3 +1,7 @@
+<script>
+  import Bio from '../components/Bio.svelte'
+</script>
+
 <style>
   .profile {
     align-items: center;

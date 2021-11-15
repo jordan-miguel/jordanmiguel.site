@@ -42,7 +42,8 @@
 
   <footer>
     <span>
-      &copy; {new Date().getFullYear()} Jordan Miguel.
+      &copy; {new Date().getFullYear()} Jordan Miguel.<br>
+      Powered by <a href="https://svelte.dev/" target="_blank">SvelteKit</a>. Deployed by <a href="https://www.netlify.com/" target="_blank">Netifly</a>.
     </span>
   </footer>
 </div>
