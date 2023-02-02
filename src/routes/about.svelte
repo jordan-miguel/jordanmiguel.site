@@ -39,7 +39,7 @@
 <div class="profile">
   <img src="https://i.ibb.co/pPfHtPW/side.jpg" alt="Jordan Miguel">
   <p>
-    Hi, I'm <strong>Jordan</strong>. I'm a Salesforce developer from London, England.
+    Hi, I'm <strong>Jordan</strong>. I'm a Salesforce developer from London.
     You can follow me on <a href="https://twitter.com/jordan__miguel" target="_blank">Twitter</a>,
     see some of my work on <a href="https://github.com/jordan-miguel" target="_blank">GitHub</a>,
     or if you prefer connect on  <a href="https://www.linkedin.com/in/jordanmiguel1/" target="_blank">LinkedIn</a>.
